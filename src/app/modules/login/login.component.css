@@ -1,0 +1,37 @@
+.login-container {
+	padding: 30px 0;
+	position: relative;
+}
+
+.login-branding {
+    margin: auto;
+    padding: 30px 0;
+    text-align: center;
+    width: 460px;
+	max-width: 94%;
+}
+
+.login-content {
+    width: 460px;
+    margin: auto;
+    padding: 30px 30px 15px;
+    max-width: 94%;
+    font-size: 16px;
+ }
+
+.connect p {
+    margin-bottom: 0px;
+    color: darkgray;
+}
+
+.connect a {
+    display: inline-block;
+    width: 32px;
+    height: 35px;
+    -o-transition: all .2s;
+    -moz-transition: all .2s;
+    -webkit-transition: all .2s;
+    -ms-transition: all .2s;
+}
+
+
